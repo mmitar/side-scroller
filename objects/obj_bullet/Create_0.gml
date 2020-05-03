@@ -1,1 +1,3 @@
-b_dmg = 15;
+b_dmg = 20;
+speed = 1;
+
